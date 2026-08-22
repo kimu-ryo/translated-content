@@ -1,7 +1,8 @@
 ---
-title: Introduction to the Real-time Transport Protocol (RTP)
+title: Real-time Transport Protocol (RTP) 入門
 slug: Web/API/WebRTC_API/Intro_to_RTP
-page-type: guide
+l10n:
+  sourceCommit: 44c4ec928281dc2d7c5ea42b7d2c74a2013f16ac
 ---
 
 {{DefaultAPISidebar("WebRTC")}}
